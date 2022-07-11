@@ -8,8 +8,8 @@
 - 🌱 I’m currently learning java-full-stack
 <hr>
 <div id="badges">
-  <a href="www.linkedin.com/in/k-s-shiyam-8447301b6">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+ <a href="https://www.hackerrank.com/ksshiyam07" target="blank">
+   <img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="hack_akshay" height="35" width="130" />
   </a>
   
 </div>
