@@ -9,7 +9,7 @@
 <hr>
 <div id="badges">
   <a href="www.linkedin.com/in/k-s-shiyam-8447301b6">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
   </a>
 </div>
 <!---
