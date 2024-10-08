@@ -5,7 +5,11 @@
 
 # 💫 About Me:
 <h1 align="center">Hi 👋, I'm Shiyam</h1>
-🔭 I’m currently working on Employee Payroll<br>🌱 I’m currently learning Spring Boot and React JS<br>💬 Ask me about anything you want if I have my conscious, I will answer it<br>⚡ Fun fact i am a good Programmer
+🔭 In the Lab: Crafting the future of Healthcare with code
+🌱 On My Radar: Perfecting both sides of the stack—front-end finesse and back-end brilliance, making full-stack feel like a full-course meal
+💡 Always Exploring: New tech trends, creative problem-solving techniques, and the latest frameworks to keep my toolkit sharp
+💬 Hit Me Up For: Tech talk, coding puzzles, or deep dives into problem-solving—if I'm awake, I've got answers!
+⚡ Fun Fact: I’m a code conjurer—transforming complex ideas into sleek solutions, one line of code at a time!
 
 
 ## 🌐 Socials:
