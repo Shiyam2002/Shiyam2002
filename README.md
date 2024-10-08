@@ -4,7 +4,7 @@
 
 
 # 💫 About Me:
-<h1 align="center">Hi 👋, I'm Shiyam</h1>
+<h1 align="center">Hi 👋, I'm Shiyam</h1><br>
 🔭 In the Lab: Crafting the future of Healthcare with code
 🌱 On My Radar: Perfecting both sides of the stack—front-end finesse and back-end brilliance, making full-stack feel like a full-course meal
 💡 Always Exploring: New tech trends, creative problem-solving techniques, and the latest frameworks to keep my toolkit sharp
